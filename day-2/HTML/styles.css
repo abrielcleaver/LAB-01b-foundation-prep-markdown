@@ -1,0 +1,24 @@
+
+h1 {
+    color: #606C38;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+#welcome {
+    color:#283618;
+}
+
+body {
+    background-color: #DDA156;
+}
+
+#footer{
+    color:royalblue;
+}
+
+.box-model {
+    padding: 50px;
+    border: 5px solid #9C6644;
+    margin: 20px;
+}
